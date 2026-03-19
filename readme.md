@@ -22,13 +22,6 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,laravel" />
 
 </td>
-<td align="center">
-
-*cms & design*
-
-<img src="https://skillicons.dev/icons?i=wordpress,figma" />
-
-</td>
 </tr><tr>
 <td align="center">
 
@@ -37,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite" />
 
 </td>
-<td align="center" colspan="2">
+<td align="center">
 
 *infrastructure & devops*
 
@@ -46,7 +39,7 @@
 
 </td>
 </tr><tr>
-<td align="center" colspan="3">
+<td align="center" colspan="2">
 
 *tools*
 
@@ -56,8 +49,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="48" height="48" alt="PhpStorm" />
 
 </td>
+</tr><tr>
+<td align="center" colspan="2">
+
+*cms & design*
+
+<img src="https://skillicons.dev/icons?i=wordpress,figma" />
+
+</td>
 </tr></table>
 
 </div>
-
-
