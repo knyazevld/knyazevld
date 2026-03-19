@@ -1,16 +1,9 @@
 
 <div align="center">
 
-```
-██████╗░██╗░░░░░░█████╗░░█████╗░██╗░░██╗
-██╔══██╗██║░░░░░██╔══██╗██╔══██╗██║░██╔╝
-██████╦╝██║░░░░░███████║██║░░╚═╝█████═╝░
-██╔══██╗██║░░░░░██╔══██║██║░░██╗██╔═██╗░
-██████╦╝███████╗██║░░██║╚█████╔╝██║░╚██╗
-╚═════╝░╚══════╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-```
-
 *cold. silent. precise.*
+
+`architectural design` · `ai integration` · `server admin` · `devops`
 
 ---
 
@@ -18,25 +11,7 @@
 
 <div align="left">
 
-## ❄️ about
-
-Full-stack engineer from the deep east — building systems the way taiga grows: slow, layered, and built to last through hard winters.  
-Architecture-first thinking. No noise. No fluff.
-
----
-
-## ⚙️ what i do
-
-```
-  architectural design      →  systems that hold under pressure
-  ai tools integration      →  embedding models, agents, and pipelines into products
-  server setup & admin      →  bare metal to cloud, nginx to k8s, nothing breaks
-  devops                    →  ci/cd, containers, infra as code, done quietly
-```
-
----
-
-## 🛠 stack
+## stack
 
 **languages**
 
@@ -81,7 +56,7 @@ Architecture-first thinking. No noise. No fluff.
 
 ---
 
-## 🌲 principles
+## principles
 
 ```
   ship clean or don't ship
