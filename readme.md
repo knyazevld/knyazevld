@@ -3,13 +3,9 @@
 
 *cold. silent. precise.*
 
-`architectural coding` · `ai integration` · `server admin` · `devops`
+`architectural design` · `ai integration` · `server admin` · `devops`
 
 ---
-
-</div>
-
-<div align="left">
 
 ## stack
 
@@ -19,7 +15,7 @@
 
 **frontend & frameworks**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,wordpress,figma,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,wordpress,figma" />
 
 **databases**
 
