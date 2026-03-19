@@ -18,7 +18,7 @@
 
 *frontend & frameworks*
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,wordpress,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,laravel,wordpress,figma" />
 
 </td>
 </tr><tr>
