@@ -11,7 +11,7 @@
 
 *languages*
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,go,php,nodejs" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,go,php,nodejs,rust" />
 
 </td>
 <td align="center">
