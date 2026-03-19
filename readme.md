@@ -18,7 +18,14 @@
 
 *frontend & frameworks*
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,laravel,wordpress,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,laravel" />
+<td align="center">
+
+**cms & design**
+
+<img src="https://skillicons.dev/icons?i=wordpress,figma" />
+
+</td>
 
 </td>
 </tr><tr>
