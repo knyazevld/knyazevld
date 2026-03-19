@@ -3,13 +3,11 @@
 
 *cold. silent. precise.*
 
-`architectural design` · `ai integration` · `server admin` · `devops`
+`software engineer` · `bypass blocking` · `ai integration` · `server admin` · `devops`
 
 ---
 
-## stack
-
-<table align="center"><tr>
+<table align="center" border="0" cellspacing="0" cellpadding="12"><tr>
 <td align="center">
 
 **languages**
@@ -54,3 +52,4 @@
 </tr></table>
 
 </div>
+
