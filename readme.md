@@ -5,7 +5,6 @@
 
 `software engineer` · `bypass blocking` · `ai integration` · `server admin` · `devops`
 
----
 
 <table align="center" border="0" cellspacing="0" cellpadding="12"><tr>
 <td align="center">
