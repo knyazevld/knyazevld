@@ -5,6 +5,7 @@
 
 `software engineer` · `bypass blocking` · `ai integration` · `server admin` · `devops`
 
+---
 
 <table align="center" border="0" cellspacing="0" cellpadding="12"><tr>
 <td align="center">
@@ -19,13 +20,13 @@
 *frontend & frameworks*
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,laravel" />
-<td align="center">
-
-**cms & design**
-
-<img src="https://skillicons.dev/icons?i=wordpress,figma" />
 
 </td>
+<td align="center">
+
+*cms & design*
+
+<img src="https://skillicons.dev/icons?i=wordpress,figma" />
 
 </td>
 </tr><tr>
@@ -36,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite" />
 
 </td>
-<td align="center">
+<td align="center" colspan="2">
 
 *infrastructure & devops*
 
@@ -45,7 +46,7 @@
 
 </td>
 </tr><tr>
-<td align="center" colspan="2">
+<td align="center" colspan="3">
 
 *tools*
 
@@ -58,4 +59,5 @@
 </tr></table>
 
 </div>
+
 
