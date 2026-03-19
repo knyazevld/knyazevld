@@ -7,8 +7,6 @@
 
 ---
 
-## stack
-
 **languages**
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,go,php,nodejs" />
