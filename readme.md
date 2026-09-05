@@ -1,62 +1,24 @@
-
 <div align="center">
 
-*cold. silent. precise.*
+*"The street finds its own uses for things."* — William Gibson
 
-`software engineer` · `bypass blocking` · `ai integration` · `server admin` · `devops`
+`bypass blocking` · `reverse engineering` · `bare metal` · `kernel hardening`
 
----
+`traffic obfuscation` · `zero trust` · `server admin` · `devops`
 
-<table align="center" border="0" cellspacing="0" cellpadding="12"><tr>
-<td align="center">
+<br>
 
-*languages*
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,go,php,nodejs,rust" />
-
-</td>
-<td align="center">
-
-*frontend & frameworks*
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,laravel" />
-
-</td>
-</tr><tr>
-<td align="center">
-
-*databases*
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite" />
-
-</td>
-<td align="center">
-
-*infrastructure & devops*
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,bash,kubernetes" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
-
-</td>
-</tr><tr>
-<td align="center" colspan="2">
-
-*tools*
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" width="48" height="48" alt="GoLand" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="48" height="48" alt="PhpStorm" />
-
-</td>
-</tr><tr>
-<td align="center" colspan="2">
-
-*cms & design*
-
-<img src="https://skillicons.dev/icons?i=wordpress,figma" />
-
-</td>
-</tr></table>
+<img src="https://cdn.simpleicons.org/rust/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Rust" />
+<img src="https://cdn.simpleicons.org/go/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Go" />
+<img src="https://cdn.simpleicons.org/python/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Python" />
+<img src="https://cdn.simpleicons.org/php/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="PHP" />
+<img src="https://cdn.simpleicons.org/laravel/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Laravel" />
+<img src="https://cdn.simpleicons.org/linux/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Linux" />
+<img src="https://cdn.simpleicons.org/docker/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Docker" />
+<img src="https://cdn.simpleicons.org/kubernetes/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Kubernetes" />
+<img src="https://cdn.simpleicons.org/nginx/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Nginx" />
+<img src="https://cdn.simpleicons.org/gnubash/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Bash" />
+<img src="https://cdn.simpleicons.org/git/9ca3af" width="40" height="40" style="background-color:#161616;padding:16px;border-radius:14px;margin:5px;" alt="Git" />
 
 </div>
+
